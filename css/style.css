@@ -314,12 +314,6 @@ p .img:hover {
   margin: 5px auto;
 }
 
-.input-text:focus,
-.input-text:hover {
-  border: 2px solid #46b1de;
-  outline: none;
-}
-
 .input-img {
   width: 24px;
   height: 24px;
